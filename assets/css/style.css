@@ -78,6 +78,7 @@ body {
   .content {
       font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
       padding: 20px;
+      border: 1px solid #cccccc;
     }
   .my-name {
       background-color: #4aaaa5;
