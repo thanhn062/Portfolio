@@ -99,7 +99,9 @@ body {
   color: #777777;
 }
 .portfolio {
-  height: 700px;
+  height: 350px;
+  margin-bottom: 200px;
+  padding-bottom: 200px;
 }
 .image {
   position: relative;
