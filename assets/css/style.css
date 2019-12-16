@@ -81,6 +81,7 @@ body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   padding: 20px;
   border: 1px solid #cccccc;
+  margin-bottom: 100px;
 }
 .my-name {
   background-color: #4aaaa5;
@@ -100,7 +101,7 @@ body {
   color: #777777;
 }
 .portfolio {
-  height: 50px;
+  height: 350px;
   margin-bottom: 200px;
   padding-bottom: 200px;
 }
